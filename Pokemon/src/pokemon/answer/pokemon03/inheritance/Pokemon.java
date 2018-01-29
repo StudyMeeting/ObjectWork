@@ -1,7 +1,5 @@
 package pokemon.answer.pokemon03.inheritance;
 
-import pokemon.PokemonType;
-
 /**
  * ポケットモンスターを表現するクラス
  */

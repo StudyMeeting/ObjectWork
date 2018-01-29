@@ -1,6 +1,5 @@
 package pokemon.work.pokemon03.inheritance;
 
-import pokemon.PokemonType;
 
 /**
  * ピカチュークラス

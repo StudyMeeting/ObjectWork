@@ -1,7 +1,5 @@
 package pokemon.answer.pokemon01.createclass;
 
-import pokemon.PokemonType;
-
 /**
  * ポケットモンスターを定義するクラス
  */

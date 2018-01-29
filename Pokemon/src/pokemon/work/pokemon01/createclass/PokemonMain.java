@@ -1,6 +1,5 @@
 package pokemon.work.pokemon01.createclass;
 
-import pokemon.PokemonType;
 
 /**
  * ポケモンクラスの利用クラス

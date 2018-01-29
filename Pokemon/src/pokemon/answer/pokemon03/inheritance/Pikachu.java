@@ -1,7 +1,5 @@
 package pokemon.answer.pokemon03.inheritance;
 
-import pokemon.PokemonType;
-
 /**
  * ピカチュークラス
  * Pokemon クラスを継承して、Pikachu を実現したクラス

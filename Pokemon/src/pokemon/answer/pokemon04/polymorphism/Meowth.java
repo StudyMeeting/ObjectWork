@@ -1,7 +1,5 @@
 package pokemon.answer.pokemon04.polymorphism;
 
-import pokemon.PokemonType;
-
 /**
  * ニャースクラス
  * Pokemon クラスを継承して、Meowth を実現したクラス

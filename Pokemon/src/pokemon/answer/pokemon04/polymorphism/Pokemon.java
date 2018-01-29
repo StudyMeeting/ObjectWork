@@ -1,7 +1,5 @@
 package pokemon.answer.pokemon04.polymorphism;
 
-import pokemon.PokemonType;
-
 /**
  * ポケットモンスターを表現するクラス
  */

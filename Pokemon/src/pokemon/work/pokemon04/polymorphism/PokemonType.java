@@ -1,4 +1,6 @@
-package pokemon;
+package pokemon.work.pokemon04.polymorphism;
+
+import pokemon.*;
 
 /**
  * ポケモンのタイプを表現する列挙型

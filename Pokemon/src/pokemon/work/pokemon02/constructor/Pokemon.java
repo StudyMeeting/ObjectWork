@@ -1,7 +1,5 @@
 package pokemon.work.pokemon02.constructor;
 
-import pokemon.PokemonType;
-
 /**
  * ポケットモンスターを表現するクラス
  */

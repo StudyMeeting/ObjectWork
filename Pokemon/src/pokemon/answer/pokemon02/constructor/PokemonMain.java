@@ -1,6 +1,5 @@
 package pokemon.answer.pokemon02.constructor;
 
-import pokemon.PokemonType;
 
 /**
  * ポケモンクラスの利用クラス
